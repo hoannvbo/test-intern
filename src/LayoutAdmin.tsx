@@ -73,6 +73,7 @@ const LayoutAdmin: React.FC = () => {
                     >
                         <Outlet />
                     </div>
+
                 </Content>
             </Layout>
         </Layout>
