@@ -5,10 +5,10 @@ Dự án này sử dụng API từ [randomuser.me](https://randomuser.me/api/) �
 ## Cài đặt và chạy ứng dụng  
 
 1. Cài đặt Node.js và npm trên máy tính của bạn.  
-2. Clone dự án này về máy tính của bạn bằng cách chạy lệnh `git clone https://github.com/[tên-tài-khoản-của-bạn]/[tên-dự-án].git`  
-3. Chuyển đến thư mục dự án bằng cách chạy lệnh `cd [tên-dự-án]`  
-4. Cài đặt các gói cần thiết bằng cách chạy lệnh `npm install`  
-5. Chạy ứng dụng bằng cách chạy lệnh `npm start`  
+2. Clone dự án này về máy tính của bạn bằng cách chạy lệnh `git clone https://github.com/hoannvbo/test-intern`  
+3. Chuyển đến thư mục dự án bằng cách chạy lệnh `cd test-intern`  
+4. Cài đặt các gói cần thiết bằng cách chạy lệnh `npm i`  
+5. Chạy ứng dụng bằng cách chạy lệnh `npm run dev`  
 
 ## Cấu trúc dự án  
 
